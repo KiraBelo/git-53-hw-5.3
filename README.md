@@ -5,6 +5,10 @@ _Возраст:_ 29 лет.
 
 _Город_: Орск.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![codewars](https://www.codewars.com/users/vOrzee/badges/large?theme=light)](https://www.codewars.com/users/vOrzee)
+
 **_vk:_** [_Профиль_](https://vk.com/vorzee)
 
 **_codewars:_** [_Профиль_](https://www.codewars.com/users/vOrzee)
