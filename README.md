@@ -11,8 +11,6 @@ _Город_: Орск.
 
 **_vk:_** [_Профиль_](https://vk.com/vorzee)
 
-**_codewars:_** [_Профиль_](https://www.codewars.com/users/vOrzee)
-
 ## Учусь в Нетологии
 
 _Направление 1:_ **Android-разработчик с нуля.**
